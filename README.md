@@ -1,12 +1,16 @@
-MySQL Mini Project Manual
 Project Title: Student Course Management System
+
+
 🎯 Objective of the Project
+
 The objective of this project is to design and implement a simple Student Course Management System using MySQL that demonstrates:
 - The use of DDL (Data Definition Language) for creating and modifying database structure.
 - The use of DML (Data Manipulation Language) for inserting, updating, and deleting data.
 - The use of DQL (Data Query Language) for retrieving and analyzing information.
 This project helps students model real-world relationships between Students, Courses, and Enrollments.
 🧱 Database Overview
+
+
 The database consists of three main tables:
 1. Students – stores basic information about students.
 2. Courses – stores details about available courses.
@@ -58,11 +62,4 @@ After completing this project, students will be able to:
 - Use DDL, DML, and DQL commands effectively.
 - Perform joins, filters, and aggregate queries.
 - Model small real-world systems using relational databases.
-📋 Evaluation Criteria
-Section	Marks (out of 10)
-DDL Implementation	____
-DML Operations	____
-DQL Queries	____
-Report Formatting	____
-Viva / Understanding	____
 
